@@ -1,0 +1,13 @@
+networkx
+matplotlib
+torch
+scipy
+dgl
+sklearn
+tqdm
+gensim
+tqdm
+pandas
+numpy
+tensorboardX
+torch_geometric
